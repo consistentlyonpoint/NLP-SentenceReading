@@ -1,4 +1,4 @@
-# CS7637_SP24-NLP-SentenceReading
+# NLP-SentenceReading <!-- CS7637_SP24 -->
 
 ## Overview
 This report presents an agent designed to answers simple ques-tions. The agent is prompted with both a statement and question. The agent uses a preprocessed library of common words to return a one-word response. The agent’s preprocessed library utilized the natural language processing capability in the spaCy library.
